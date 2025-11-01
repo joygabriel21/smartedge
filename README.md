@@ -43,31 +43,6 @@ Config
 
 dotenv, aiohttp
 
-📁 Project Structure
-
-smartedge/
-├── backend/
-│   ├── api/
-│   │   ├── main.py
-│   │   ├── forecast_model_light.py
-│   ├── faust_app/
-│   │   ├── app.py
-│   │   ├── models.py
-│   ├── sensor.db
-│   ├── .env.example
-│   ├── requirements.txt
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   ├── styles.css
-│   ├── package.json
-│   ├── .env.example
-│   └── README.md
-├── README.md
-└── .gitignore
-
 ⚙️ Setup Instructions
 
 1. Clone the Repository
