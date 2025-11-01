@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymc
+scipy
+sqlalchemy
+python-dotenv
+requests
+websockets
+fastapi[all]
+psycopg2-binary
+pymc
+numpy
+pandas
